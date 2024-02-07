@@ -5,7 +5,7 @@
 AtliQ Grands, a renowned luxury hotel chain, is experiencing a decline in market share and revenue due to increased competition and management inefficiencies. To counter this, the managing director has decided to leverage Business and Data Intelligence to regain market dominance. However, lacking an in-house data analytics team, they've engaged a third-party service provider to analyze their historical data.
 
 ## Data Overview
-![]([cloudinary_image_url](https://res.cloudinary.com/dymx9fvj9/image/upload/v1707306904/Data_Model_Diagram_n3bsfd.png))
+![](https://res.cloudinary.com/dymx9fvj9/image/upload/v1707306904/Data_Model_Diagram_n3bsfd.png)
 
 ### Dimension Tables
 1. **dim_date**:
