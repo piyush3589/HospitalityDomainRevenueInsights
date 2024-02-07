@@ -75,6 +75,8 @@ AtliQ Grands, a renowned luxury hotel chain, is experiencing a decline in market
 - DSRN WoW change %
 
 ## Data Modeling
+!(cloudinary_image_url)
+
 
 ## Visualizations and Insights
 
