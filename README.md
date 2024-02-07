@@ -107,6 +107,3 @@ We have three dimension tables and two fact tables. Details are given below:
 4. AtliQ Exotica outperforms other properties with 320 Million in revenue, a rating of 3.62, an occupancy percentage of 57%, and a cancellation rate of 24.4%.
 5. Elite-type rooms have the highest booking rate but also higher cancellation rates.
 
----
-
-This README provides a comprehensive overview of the AtliQ Grands Business Intelligence project, including problem definition, data overview, preprocessing details, data modeling, visualizations, and key insights.
