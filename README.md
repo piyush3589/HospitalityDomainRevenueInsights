@@ -97,7 +97,8 @@ We have three dimension tables and two fact tables. Details are given below:
 - By Week Number
 
 ### Additional Dashboards
-
+![](https://res.cloudinary.com/dymx9fvj9/image/upload/v1707307978/Page_1_utynm2.png)
+![](https://res.cloudinary.com/dymx9fvj9/image/upload/v1707307978/Page_1_utynm2.png)
 ## Important Insights
 
 1. Mumbai generated the highest revenue: 660.6M.
