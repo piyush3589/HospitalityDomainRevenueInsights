@@ -80,7 +80,7 @@ We have three dimension tables and two fact tables. Details are given below:
 ## Visualizations and Insights
 
 ### Main Dashboard
-![](https://res.cloudinary.com/dymx9fvj9/image/upload/v1707306904/Data_Model_Diagram_n3bsfd.png](https://res.cloudinary.com/dymx9fvj9/image/upload/v1707307978/Main_xurla1.png)
+![](https://res.cloudinary.com/dymx9fvj9/image/upload/v1707307978/Main_xurla1.png)
 
 **KPI Cards:**
 - Revenue
